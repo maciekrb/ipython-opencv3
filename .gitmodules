@@ -1,0 +1,6 @@
+[submodule "opencv"]
+	path = opencv
+	url = ./opencv
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = ./opencv_contrib

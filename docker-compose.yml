@@ -1,0 +1,8 @@
+eng:
+  build: .
+  volumes:
+    - /volumes/computervision:/notebooks
+  ports:
+    - "8888:8888"
+  environment:
+    PASSWORD: notsecret
